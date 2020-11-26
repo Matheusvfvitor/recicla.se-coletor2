@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.3 (swiftlang-1200.0.29.2 clang-1200.0.30.1)"
+options: "a7c5c843c398ee18bc534ae53070a627"
+build_time: [1605236053, 583211000]
+inputs:
+  "/Users/matheusvitor/GitProjects/reciclase_coletor/ios/Runner/AppDelegate.swift": !dirty [1605235718, 332412441]
