@@ -1,0 +1,58 @@
+name: reciclase_coletor
+description: A new Flutter project.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_google_places: ^0.2.6
+  google_maps_flutter: ^0.5.30
+  google_maps_webservice: ^0.0.14
+  geolocator: ^5.3.2+2
+  geocoder: ^0.2.1
+  expandable_bottom_sheet: ^0.2.1+1
+  flutter_rating_bar: ^3.0.1+1
+  firebase_core: ^0.5.0 # recursos basicos
+  firebase_auth: ^0.18.0 # autenticacao
+  firebase_storage: ^4.0.0 # armazenamento de arquivos
+  cloud_firestore: ^0.14.0 # banco de dados
+  google_sign_in: ^4.5.1
+  shimmer: ^1.1.1
+  toast: ^0.1.5
+  flutter_custom_clippers: ^1.1.2
+  flutter_html: ^1.0.0
+  ansicolor: ^1.0.2
+  image_cropper: 1.0.2
+  image_picker: ^0.6.7+7
+  flutter_image_compress: ^0.7.0
+  path_provider: ^1.6.14
+  image: ^2.1.14
+  flutter_open_whatsapp: ^0.1.2
+  share: ^0.6.5+1
+  firebase_analytics: ^6.0.0
+  curved_navigation_bar: ^0.3.1
+  qr_flutter: ^3.1.0
+  responsive_screen: ^1.0.0
+  percent_indicator: "^2.1.7+2"
+  firebase_messaging: ^7.0.3
+  introduction_screen: ^1.0.9
+  flutter_launcher_icons: "^0.8.1"
+  firebase_crashlytics: ^0.2.1
+  url_launcher: ^5.7.2
+  mask_text_input_formatter: ^1.1.0
+
+  # To add assets to your application, add an assets section, like this:
+assets:
+  - assets/
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+flutter:
+  uses-material-design: true
