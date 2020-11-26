@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1093108777172-nslg1bkfng36hp47tcjjf6qbfrf3e59u.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1093108777172-nslg1bkfng36hp47tcjjf6qbfrf3e59u</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1093108777172-bb4mclpihnanu9l6ooue2k8ej855fbtu.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBR8msqCPylVveOya-Mj5R3xZoV8cyuK-o</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1093108777172</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.trash2money.reciclasecoletor</string>
+	<key>PROJECT_ID</key>
+	<string>trashapp-284420</string>
+	<key>STORAGE_BUCKET</key>
+	<string>trashapp-284420.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1093108777172:ios:d8d049a810049303d87b41</string>
+	<key>DATABASE_URL</key>
+	<string>https://trashapp-284420.firebaseio.com</string>
+</dict>
+</plist>
